@@ -32,9 +32,11 @@ Learning from raw audio-visual data with two CNNs, Tzirakis et al. [I] used a tw
 ##### [I} ***P. Tzirakis, G. Trigeorgis, M. A. Nicolaou, B. Schuller, and S. Zafeiriou, “End-to-end multimodal emotion recognition using deep neural networks,” IEEE J. Sel. Top. Signal Process., vol. 11, no. 8, pp. 1301–1309, 2017.***
 
 ![Image](https://github.com/Shahabks/Emotion-classification-from-a-multimodel-Speech-Body-Joint-Movments-dataset/blob/master/EVBM1.jpeg)
+![Image](https://github.com/Shahabks/Emotion-classification-from-a-multimodel-Speech-Body-Joint-Movments-dataset/blob/master/EVBM2.jpeg)
 
 # Analysis
 
 We are using Colab, a Google Cloud environment for jupyter, so we need to import our files from Google Drive and then install LibROSA, a python package for music and audio analysis.
 
 After the import, we will plot the signal of the first file.
+![Image](https://github.com/Shahabks/Emotion-classification-from-a-multimodel-Speech-Body-Joint-Movments-dataset/blob/master/EVBM3.png)
