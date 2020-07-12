@@ -7,7 +7,7 @@ We created an Audio/Body-Joint-Movement signals Dataset and labelled according t
 
 Each file was labelled by 14 digits which helps us identify and trace back the characteristics: modality (01 = body-movement, 02 = audio), emotion (01 = neutral, 02 = calm, 03 = happy, 04 = sad, 05 = angry, 06 = fearful, 07 = disgust, 08 = surprised), emotional intensity (01 = normal, 02 = strong), statement (01 = “Scenario-1”, 02 = “Scenarios-2”), repetition (01 = 1st repetition, 02 = 2nd repetition), data-collection-type (01=male, 02=female, 03=English-as 1st language, 04=other-language, 05=collecting mode).
 
-***Experimet***
+***Experiment***
 
 For this experiment, we have extracted 28 features from the audio from each file and 9 features from the body-joint-movement signals that I shall explain further down.  
 
