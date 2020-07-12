@@ -31,7 +31,7 @@ Learning from raw audio-visual data with two CNNs, Tzirakis et al. [I] used a tw
 ##### [H] ***F. Lingenfelser, J. Wagner, J. Deng, R. Bruckner, B. Schuller, and E. Andre, “Asynchronous and event-based fusion systems for affect recognition on naturalistic data in comparison to conventional approaches,” IEEE Trans. Affect. Comput., 2016***
 ##### [I} ***P. Tzirakis, G. Trigeorgis, M. A. Nicolaou, B. Schuller, and S. Zafeiriou, “End-to-end multimodal emotion recognition using deep neural networks,” IEEE J. Sel. Top. Signal Process., vol. 11, no. 8, pp. 1301–1309, 2017.***
 
-![alt text](https://drive.google.com/uc?id=1q0hGl0lcM5JuUskS1VaXvSAk3vOn4giV)
+![Image](https://github.com/Shahabks/Emotion-classification-from-a-multimodel-Speech-Body-Joint-Movments-dataset/blob/master/EVBM1.jpeg)
 
 # Analysis
 
