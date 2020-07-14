@@ -1,4 +1,4 @@
-# Emotion-classification-from-a-multimodel-Speech-Body-Joint-Movments-dataset
+# Emotion-classification-from-a-multimodal-Speech-Body-Joint-Movments-dataset
 ## A preliminary experiment setup for Independent-language mental status - classification 
 
 ***Data***
